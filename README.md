@@ -17,8 +17,7 @@
 - 🔍 **Smart Search** - Efficient similarity search using OpenAI embeddings
 - 🎨 **Modern UI** - Beautiful orange-themed interface with Shadcn UI
 - 📊 **Performance Metrics** - See response times (cache vs. vector DB)
-- 🌓 **Dark Mode** - Full dark mode support
-
+- 
 ## 🏗️ Architecture
 
 ```
